@@ -24,4 +24,4 @@ bash <(wget --no-check-certificate -qO- https://github.com/wxlost/lotServer/raw/
 
 ## [更新历史](http://download.appexnetworks.com.cn/releaseNotes/)     
 
-  
+## [查看官方支持的内核名单](http://download.appexnetworks.com.cn/ls.do?m=availables)
