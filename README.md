@@ -1,13 +1,27 @@
 # lotServer
 
-## 旧版
-版本号小于等于 3.11.20.10 ,可用旧版本算号器生成许可证.      
--->[旧版许可证生成地址](https://moeclub.azurewebsites.net/)    
 
-## 新版
-版本号大于 3.11.20.10 ,需要用新版算号器许可证.      
--->[新版许可证生成地址(暂无)](https://moeclub.org)    
+## 用户安装
+### 常规自动安装
+```
+bash <(wget --no-check-certificate -qO- https://github.com/wxlost/lotServer/raw/master/Install.sh) install
+```
+
+### 指定内核安装
+```
+bash <(wget --no-check-certificate -qO- https://github.com/wxlost/lotServer/raw/master/Install.sh) install <Kernel Version>
+```
+
+## 完全卸载
+```
+bash <(wget --no-check-certificate -qO- https://github.com/wxlost/lotServer/raw/master/Install.sh) uninstall
+```
+
+## 许可证生成 -->[萌咖 API接口](https://moeclub.org/api)  
+### 如果无法生成许可证,可能API正在被无聊的人攻击.
+
+## [常见问答](https://github.com/MoeClub/lotServer/wiki)     
 
 ## [更新历史](http://download.appexnetworks.com.cn/releaseNotes/)     
 
-  
+## [查看官方支持的内核名单](http://download.appexnetworks.com.cn/ls.do?m=availables)
